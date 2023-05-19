@@ -14,7 +14,8 @@ I created a tutorial and publised it in a Github gist. Through this tutorial we 
 
 | Technology Used         | Resource URL           | 
 | ------------- |:-------------:| 
-
+* JavaScript.info - Form Validation: https://javascript.info/forms-validation
+This website offers tutorials and examples on JavaScript form validation, including email validation.
 
 #
 
