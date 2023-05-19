@@ -5,6 +5,8 @@
 ## Description 
 I created a tutorial and publised it in a Github gist. Through this tutorial we will consistently refer to the provided regular expression (regex) for the purpose of analyzing each regex component. This approach aims to facilitate a comprehensive understanding for both beginners and experts, ensuring clarity in comprehending the material. The regex components covered in this guide comprise Anchors, Quantifiers, Grouping Constructs, Bracket Expressions, Character Classes, and finally Character Escapes. By thoroughly examining these elements, readers will gain a solid grasp of the topic.
 #
+* [Github Gist Link]()
+
 ## Visual image of the Github gist turorial
 #
 <img width="1437" alt="Screen Shot 2023-05-18 at 8 02 00 PM" src="https://github.com/Berkeleycodingmomma/Regex-in-JavaScript-A-Comprehensive-Email-Tutorial-by-BerkeleyCodingMomma.md/assets/127444682/6d3bb6d1-cb19-46d7-b408-862d38eeee96">
