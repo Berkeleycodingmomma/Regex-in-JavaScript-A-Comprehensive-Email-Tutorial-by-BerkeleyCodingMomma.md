@@ -5,7 +5,7 @@
 ## Description 
 I created a tutorial and publised it in a Github gist. Through this tutorial we will consistently refer to the provided regular expression (regex) for the purpose of analyzing each regex component. This approach aims to facilitate a comprehensive understanding for both beginners and experts, ensuring clarity in comprehending the material. The regex components covered in this guide comprise Anchors, Quantifiers, Grouping Constructs, Bracket Expressions, Character Classes, and finally Character Escapes. By thoroughly examining these elements, readers will gain a solid grasp of the topic.
 #
-* [Github Gist Link]()
+* [Github Gist Link](https://gist.github.com/Berkeleycodingmomma/851fe71eee01ee7483f2a8c3efdcaeb7)
 
 ## Visual image of the Github Gist turorial
 #
@@ -107,6 +107,7 @@ However, the 4th email address, amanda.val@2023bootcamp.com, is considered inval
 
 * [Linkedin](https://www.linkedin.com/in/amanda-gray-831a65254/)
 * [Github]()
+* [Github-Gist](https://gist.github.com/Berkeleycodingmomma/851fe71eee01ee7483f2a8c3efdcaeb7)
 
 ## Credits
 
