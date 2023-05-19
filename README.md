@@ -22,20 +22,17 @@ This website provides resources and guidance on creating teaching dossiers.
 Regular-Expressions.info offers comprehensive tutorials and examples on regular expressions, covering a wide range of topics.
 * OpenRefine Tutorial - Regular Expressions (Regex) Activity: https://datacarpentry.org/openrefine-socialsci/05-regex/
 Data Carpentry provides a tutorial on using regular expressions with OpenRefine, similar to the University of Toronto Libraries' tutorial.
-
-Purdue University. (n.d.). Oral Presentation Tips: 
-
-
-
+* Purdue University. (n.d.). Oral Presentation Tips: https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/technical_presentations/index.html
+Purdue University's Online Writing Lab (OWL) offers tips and advice on delivering effective oral presentations, similar to the University of Toronto's Advice on Academic Writing page.
+* freeCodeCamp. (n.d.). Web Design - CS50's Web Programming Course: https://www.freecodecamp.org/news/cs50s-web-programming-course/
+freeCodeCamp provides a web programming course similar to CS50's Web Programming with Python and JavaScript from Harvard University.
 #
-
-## Video of the final tutorial
+## Video link of the final tutorial
 #
 * [Youtube](https://youtu.be/3Mm9cNflXwk)
 #
 
-## Code examples of the project
-
+## Examples of the "raw" Github Gist
 #
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -59,19 +56,6 @@ Therefore, the updated breakdown of the email address amanda_1278-@berkeleybootc
 
 ```
 
-**(ABOVE)- 
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-```sh
-
-  
-
-
-```
-
-**(ABOVE)- 
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ```sh
@@ -89,18 +73,25 @@ By appropriately escaping the dot (.) with a backslash (i.e., .), we establish t
     
 ```
 
-**(ABOVE)- 
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ```sh
   
+### Escape sequences: 
+In order to represent characters that cannot be directly typed or represented in a string, we use escape sequences. These sequences begin with a backslash () followed by one or more letters. In the context of the email regex, the escape sequence \d is used to represent any digit from 0 to 9. It acts as a shorthand notation for the character class [0-9]. By utilizing escape sequences, we can conveniently include these special characters in our regular expressions.
 
+**Example:** Consider the following email addresses:
+1. `amanda.val2023@bootcamp.com` **(valid)**
+2. `amanda123_val@bootcamp.com` **(valid)**
+3. `aval@bootcamp7.com` **(valid)**
+4. `amanda.val@2023bootcamp.com` **(invalid)**
 
+Throughout the example, the regex accurately matches valid email addresses that contain digits, such as the 1st, 2nd, and 3rd email addresses mentioned above. The use of the escape sequence \d allows the regex to represent any digit from 0 to 9, serving as a shorthand notation for the character class [0-9]. This enables the regex to identify valid email addresses containing digits in both the username and domain parts.
+
+However, the 4th email address, amanda.val@2023bootcamp.com, is considered invalid because it starts with a digit immediately after the @ symbol. This violates the regex pattern provided, which does not allow domain names to start with a digit. Therefore, the regex fails to match the 4th email address and labels it as invalid.
 
 
 ```
-**(ABOVE)- 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
