@@ -16,7 +16,8 @@ I created a tutorial and publised it in a Github gist. Through this tutorial we 
 | ------------- |:-------------:| 
 * JavaScript.info - Form Validation: https://javascript.info/forms-validation
 This website offers tutorials and examples on JavaScript form validation, including email validation.
-
+* McGill University. (n.d.). Teaching and Learning Services - Teaching Dossier: https://www.mcgill.ca/tls/teaching-dossiers
+This website provides resources and guidance on creating teaching dossiers, similar to the University of Toronto's Centre for Teaching Support & Innovation page.
 #
 
 ## Video of the final tutorial
