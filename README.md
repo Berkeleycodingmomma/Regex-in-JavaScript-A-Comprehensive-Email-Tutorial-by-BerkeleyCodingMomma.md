@@ -7,8 +7,8 @@ I created a tutorial and publised it in a Github gist. Through this tutorial we 
 #
 ## Visual image of the Github gist turorial
 
-<img width="1170" alt="Screen Shot 2023-04-24 at 11 47 38 PM" src="https://user-images.githubusercontent.com/127444682/234191717-7177896d-95ca-472b-b6aa-ef11d6410ef6.png">
-#
+
+
 ## Technology Used 
 
 | Technology Used         | Resource URL           | 
@@ -18,8 +18,8 @@ I created a tutorial and publised it in a Github gist. Through this tutorial we 
 #
 
 ## Video of the final tutorial
-
-
+#
+* [Youtube](https://youtu.be/3Mm9cNflXwk)
 #
 
 ## Code examples of the project
