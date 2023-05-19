@@ -7,9 +7,11 @@ I created a tutorial and publised it in a Github gist. Through this tutorial we 
 #
 * [Github Gist Link]()
 
-## Visual image of the Github gist turorial
+## Visual image of the Github Gist turorial
 #
+
 <img width="1437" alt="Screen Shot 2023-05-18 at 8 02 00 PM" src="https://github.com/Berkeleycodingmomma/Regex-in-JavaScript-A-Comprehensive-Email-Tutorial-by-BerkeleyCodingMomma.md/assets/127444682/6d3bb6d1-cb19-46d7-b408-862d38eeee96">
+
 #
 
 ## Technology Used 
@@ -28,6 +30,7 @@ Data Carpentry provides a tutorial on using regular expressions with OpenRefine,
 Purdue University's Online Writing Lab (OWL) offers tips and advice on delivering effective oral presentations, similar to the University of Toronto's Advice on Academic Writing page.
 * freeCodeCamp. (n.d.). Web Design - CS50's Web Programming Course: https://www.freecodecamp.org/news/cs50s-web-programming-course/
 freeCodeCamp provides a web programming course similar to CS50's Web Programming with Python and JavaScript from Harvard University.
+
 #
 ## Video link of the final tutorial
 #
@@ -36,6 +39,7 @@ freeCodeCamp provides a web programming course similar to CS50's Web Programming
 
 ## Examples of the "raw" Github Gist
 #
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
  ```sh
